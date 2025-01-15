@@ -34,7 +34,7 @@ App
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/fast-pizza-menu.git
+   https://github.com/TarkhanGurbanli/Fast-Pizza-Menu.git
    ```
 2. Navigate to the project directory:
    ```bash
